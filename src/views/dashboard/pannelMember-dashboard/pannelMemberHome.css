@@ -1,0 +1,33 @@
+.presentation {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+  background-color: #0d47a1;
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  padding: 0 2%;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.presentation:hover {
+  background: #1051b3;
+}
+
+.download {
+  color: white;
+  background-color: #0d47a1;
+  text-decoration: none;
+  text-align: center;
+  line-height: 30px;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0 2%;
+  width: 60%;
+}
+
+.download:hover {
+  background: #1051b3;
+}
