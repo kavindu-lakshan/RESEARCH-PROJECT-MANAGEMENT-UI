@@ -10,9 +10,9 @@ export default function Footerdashboard() {
         Rights Reserved
       </small>
       <nav class="footer-nav">
-        {/* <a href="#">Back to Top</a>
+        <a href="#">Back to Top</a>
         <a href="#">Terms of Use</a>
-        <a href="#">Privacy</a> */}
+        <a href="#">Privacy</a>
       </nav>
     </center>
   );
